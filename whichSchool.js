@@ -1,5 +1,5 @@
 function whichSchool(age) {
-  var school = '';
+var school = '';
   if (age < 13) {
     school = 'Elementary School';
   } else if (age >= 13 && age <= 18) {
